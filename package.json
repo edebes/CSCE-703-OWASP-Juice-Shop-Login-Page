@@ -1,0 +1,9 @@
+{
+  "name": "juice-shop-login-page",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A static Juice Shop-inspired login page with client/server validation",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
